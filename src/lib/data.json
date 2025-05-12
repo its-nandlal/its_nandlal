@@ -1,0 +1,187 @@
+{
+    "work": [
+      {
+        "year": "2025",
+        "workName": "Decorewala",
+        "logo": "https://i.pinimg.com/736x/b0/df/ce/b0dfced73ad3c5b553eae610baf7cd1d.jpg",
+        "video": "../../Videos/workVideo/decorewala.mov",
+        "si1": "../../Images/workImage/decorewala1.png",
+        "si2": "../../Images/workImage/decorewala2.png",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "https://decorewala.com"
+        },
+        {
+        "year": "2025",
+        "workName": "Misan",
+        "logo": "https://i.pinimg.com/736x/b0/df/ce/b0dfced73ad3c5b553eae610baf7cd1d.jpg",
+        "video": "../../Videos/workVideo/misan.mov",
+        "si1": "../../Images/workImage/misan1.png",
+        "si2": "../../Images/workImage/misan2.png",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "https://misan.in"
+        },
+        {
+        "year": "2025",
+        "workName": "Vinayakartplace",
+        "logo": "https://i.pinimg.com/736x/25/61/8b/25618bbeef90e57e23a61bacb89582f4.jpg",
+        "video": "../../Videos/workVideo/vinayakartplace.mov",
+        "si1": "../../Images/workImage/vinayakartplace1.png",
+        "si2": "../../Images/workImage/vinayakartplace2.png",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "https://vinayakartplace.com"
+        },
+        {
+        "year": "2025",
+        "workName": "Renbofurniture",
+        "logo": "https://i.pinimg.com/736x/b7/50/95/b75095424fe9b7ca954dca0f36aaf4bf.jpg",
+        "video": "../../Videos/workVideo/renbofurniture.mov",
+        "si1": "../../Images/workImage/renbofurniture1.png",
+        "si2": "../../Images/workImage/renbofurniture2.png",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "http://renbofurniture.com"
+        },
+        {
+        "year": "2024",
+        "workName": "Doze-Studio",
+        "logo": "https://i.pinimg.com/736x/10/51/f9/1051f92ecdbdaa63c73adae6274097b3.jpg",
+        "video": "../../Videos/workVideo/dozestudio.mov",
+        "si1": "../../Images/workImage/doze-studio1.png",
+        "si2": "../../Images/workImage/doze-studio2.png",
+        "category": "Frontend",
+        "language": "React & Gsap",
+        "link": "https://doze-studio-psi.vercel.app"
+        },
+        {
+        "year": "2024",
+        "workName": "Benetton",
+        "logo": "https://i.pinimg.com/736x/10/51/f9/1051f92ecdbdaa63c73adae6274097b3.jpg",
+        "video": "../../Videos/workVideo/benetton.mov",
+        "si1": "../../Images/workImage/benetton1.png",
+        "si2": "../../Images/workImage/benetton2.png",
+        "category": "Frontend",
+        "language": "JavaScript & Gsap",
+        "link": "https://js-legends-reimagine-round2.vercel.app/"
+        },
+        {
+        "year": "2023",
+        "workName": "Apple Vison",
+        "logo": "https://i.pinimg.com/736x/10/51/f9/1051f92ecdbdaa63c73adae6274097b3.jpg",
+        "video": "../../Videos/workVideo/applevison.mov",
+        "si1": "../../Images/workImage/apple-vison1.png",
+        "si2": "../../Images/workImage/apple-vison2.png",
+        "category": "Frontend",
+        "language": "JavaScript & Gsap",
+        "link": "https://its-nandlal.github.io/APPLE-VISON-PROO/"
+        }
+        ],
+    "myImage": [
+      "../../Images/myImage/1.jpg",
+      "../../Images/myImage/2.jpg",
+      "../../Images/myImage/3.jpg",
+      "../../Images/myImage/4.png",
+      "../../Images/myImage/5.jpeg",
+      "../../Images/myImage/6.jpeg",
+      "../../Images/myImage/7.jpeg",
+      "../../Images/myImage/8.jpeg"
+    ],
+    "showCaseWork": [
+      {
+        "_id": "0",
+        "year": "2025",
+        "workName": "Decorewala",
+        "logo": "https://i.pinimg.com/736x/b0/df/ce/b0dfced73ad3c5b553eae610baf7cd1d.jpg",
+        "video": "../../Videos/workVideo/decorewala.mov",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "https://decorewala.com"
+        },
+        {
+        "_id": "1",
+        "year": "2025",
+        "workName": "Vinayakartplace",
+        "logo": "https://i.pinimg.com/736x/25/61/8b/25618bbeef90e57e23a61bacb89582f4.jpg",
+        "video": "../../Videos/workVideo/vinayakartplace.mov",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "https://vinayakartplace.com"
+        },
+        {
+        "_id": "2",
+        "year": "2025",
+        "workName": "Renbofurniture",
+        "logo": "https://i.pinimg.com/736x/b7/50/95/b75095424fe9b7ca954dca0f36aaf4bf.jpg",
+        "video": "../../Videos/workVideo/renbofurniture.mov",
+        "category": "E-Commerce",
+        "language": "WordPress",
+        "link": "http://renbofurniture.com"
+        },
+        {
+        "_id": "3",
+        "year": "2024",
+        "workName": "Doze-Studio",
+        "logo": "https://i.pinimg.com/736x/10/51/f9/1051f92ecdbdaa63c73adae6274097b3.jpg",
+        "video": "../../Videos/workVideo/dozestudio.mov",
+        "category": "Frontend",
+        "language": "React & Gsap",
+        "link": "https://doze-studio-psi.vercel.app"
+        },
+        {
+        "_id": "4",
+        "year": "2024",
+        "workName": "Benetton",
+        "logo": "https://i.pinimg.com/736x/10/51/f9/1051f92ecdbdaa63c73adae6274097b3.jpg",
+        "video": "../../Videos/workVideo/benetton.mov",
+        "category": "Frontend",
+        "language": "JavaScript & Gsap",
+        "link": "https://js-legends-reimagine-round2.vercel.app/"
+        }
+    ],
+    "mySkills": [
+      {
+        "Backend":[
+        "Nodejs",
+        "Express",
+        "MongoDB",
+        "REST API",
+        "Socket.IO",
+        "File System",
+        "Asynchronous Programming",
+        "JWT Authentication",
+        "Error Handling"
+      ]
+     },
+     {
+      "Frontend": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Zustand",
+        "TypeScript",
+        "Responsive Design",
+        "GSAP",
+        "Framer Motion",
+        "Webpack",
+        "Styled Components"
+      ]
+    },
+    {
+      "Other": [
+        "WordPress",
+        "Elementor",
+        "Figma",
+        "Canva",
+        "Premiere Pro",
+        "Adobe Photoshop",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    }
+    ]
+}

@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    cursor: none !important;
+}
+
+textPath {
+    transition: font-family 0.5s ease-in-out;
+}
+
+.popupImage::-webkit-scrollbar {
+    display: none;
+}
+
+
+#scroll {
+    -webkit-overflow-scrolling: touch;
+}
+
+::-webkit-scrollbar{
+    background: transparent;
+    width: .5rem;
+    text-transform: lowercase;
+    text-transform: uppercase;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #0000005e;
+    border-radius: 100rem;
+}
+
+::selection{
+    background: #c0a27b;
+}
+
+@font-face {
+    font-family: f1;
+    src: url(../public/Fonts/AeonikTRIAL-Light.otf)
+}
+
+@font-face {
+    font-family: f2;
+    src: url(../public/Fonts/AeonikTRIAL-Regular.otf)
+}
+
+@font-face {
+    font-family: f3;
+    src: url(../public/Fonts/AeonikTRIAL-Bold.otf)
+}
+
+@font-face {
+    font-family: f4;
+    src: url(../public/Fonts/Asem\ Kandis\ PERSONAL\ USE.otf);
+}
+
+
