@@ -68,21 +68,21 @@ export default function Footer() {
 
       <div className="relative z-[2] w-full pt-8 flex justify-center">
         <div className="flex items-center justify-center max-sm:w-fit max-sm:scale-[.8]">
-        <Button link={"/"}>
+        <Button link={"/https://github.com/its-nandlal?tab=repositories"}>
         <span className='inline-block h-[.9rem] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'><FiGithub /> </span>
         <span className='inline-block text-lg font-[200] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'> Github</span>
         </Button>
         </div>
 
         <div className="flex items-center justify-center -mt-24 max-sm:w-fit max-sm:scale-[.8]">
-        <Button link={"/"}>
+        <Button link={"/https://www.linkedin.com/in/nandlal-jangir-8b9b512b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"}>
         <span className='inline-block h-[.9rem] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'><FaLinkedinIn /> </span>
         <span className='inline-block text-lg font-[200] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'> Linkedin</span>
         </Button>
         </div>
 
         <div className="flex items-center justify-center max-sm:w-fit max-sm:scale-[.8]">
-        <Button link={"/"}>
+        <Button link={"/https://www.instagram.com/its__nandlal/"}>
         <span className='inline-block h-[.9rem] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'><IoLogoInstagram /> </span>
         <span className='inline-block text-lg font-[200] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'> Instagram</span>
         </Button>

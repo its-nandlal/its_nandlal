@@ -37,7 +37,7 @@ const Menu = forwardRef(({ menuBtnRef }, ref) => {
 
         <Megnito>
           <a
-            href="https://www.linkedin.com/in/nandal-jangir-0b1b1a1b6/"
+            href="https://www.linkedin.com/in/nandlal-jangir-8b9b512b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
