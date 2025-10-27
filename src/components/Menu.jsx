@@ -26,7 +26,7 @@ const Menu = forwardRef(({ menuBtnRef }, ref) => {
       <div className='flex gap-5 text-[1.5vw] max-sm:text-[6vw] max-sm:gap-10'>
         <Megnito>
           <a
-            href="https://www.instagram.com/its__nandlal/"
+            href="https://www.instagram.com/its__nickd/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
