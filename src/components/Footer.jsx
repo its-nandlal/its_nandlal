@@ -82,7 +82,7 @@ export default function Footer() {
         </div>
 
         <div className="flex items-center justify-center max-sm:w-fit max-sm:scale-[.8]">
-        <Button link={"https://www.instagram.com/its__nandlal/"}>
+        <Button link={"https://www.instagram.com/its__nickd/"}>
         <span className='inline-block h-[.9rem] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'><IoLogoInstagram /> </span>
         <span className='inline-block text-lg font-[200] leading-[1] max-sm:text-[4vw] max-sm:mt-[.3rem]'> Instagram</span>
         </Button>
@@ -95,3 +95,4 @@ export default function Footer() {
     </div>
   );
 }
+
